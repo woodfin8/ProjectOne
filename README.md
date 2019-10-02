@@ -1,5 +1,6 @@
 # Finding Restaurant Franchise Growth Opportunities
 Brendan, Gargi, Sarah and Keith
+
 October 2nd, 2019
 
 This set of programs aim to figure out which major franchises are worth openning new locations in which cities. Eight major American franchises were chosen (Chipotle, Five Guys, Halal Guys, Shake Shack, McDonald's, Texas Roadhouse, Panera Bread, and Taco Bell).
